@@ -2,7 +2,7 @@
 
 ## Introduction
 
-Basic JS scripted node that prints shared / transient state, object Attributes and Cookies.
+JavaScript node that prints shared / transient state, object Attributes, requestHeaders / Cookies and request parameters.
 
 ## Contents
 
