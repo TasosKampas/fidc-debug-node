@@ -1,4 +1,4 @@
-# Print debug node
+# FR Journey Debug node
 
 ## Introduction
 
